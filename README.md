@@ -14,7 +14,7 @@ I focus on writing clean, maintainable code using **Clean Architecture**, **MVVM
 - Firebase: Analytics, Crashlytics, Authentication
 - Local Storage: Hive, SQLite
 - CI/CD: GitHub Actions, Firebase App Distribution
-- Tools: Git, GitHub, Agile / Scrum
+- Tools & Workflow: Git, GitHub, Agile / Scrum
 
 ---
 
@@ -42,6 +42,13 @@ Each project includes a detailed README describing the architecture, features, a
 - 📞 Phone: +20 1152931586  
 - 💼 LinkedIn: https://www.linkedin.com/in/eslam-mahmoud611  
 - 💻 GitHub: https://github.com/Eslam-mahmou  
+
+---
+
+## 📊 GitHub Activity
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Eslam-mahmou&show_icons=true&hide_title=true" />
+</p>
 
 ---
 
