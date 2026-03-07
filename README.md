@@ -1,55 +1,131 @@
-## Hi, I'm Eslam Mahmoud 👋
-**Flutter Developer | Clean Architecture | Bloc / Cubit | Firebase | CI/CD**
+# Hi 👋 I'm Eslam Mahmoud
 
-Flutter Developer with hands-on experience building and maintaining scalable mobile applications, including production-ready apps developed within team environments.  
-I focus on writing clean, maintainable code using **Clean Architecture**, **MVVM/MVI**, and modern Flutter best practices.
+🚀 **Flutter Developer | Clean Architecture | Bloc / Cubit | Firebase**
 
----
+Flutter Developer with **1.5+ years of experience** building scalable and production-ready mobile applications.
 
-## 🧠 Technical Focus
-- Flutter & Dart (Cross-platform mobile development)
-- State Management: Bloc, Cubit, Provider
-- Architecture: Clean Architecture, MVVM, MVI
-- Backend Integration: REST APIs, Dio, Retrofit
-- Firebase: Analytics, Crashlytics, Authentication
-- Local Storage: Hive, SQLite
-- CI/CD: GitHub Actions, Firebase App Distribution
-- Tools & Workflow: Git, GitHub, Agile / Scrum
+I specialize in **Clean Architecture, MVVM/MVI, and modern Flutter development**, with hands-on experience delivering features in **Agile teams** and maintaining **large production codebases**.
+
+I focus on writing **clean, scalable, and maintainable mobile applications** with strong architecture and best development practices.
 
 ---
 
-## 🚀 What I Work On
-- Production-ready Flutter applications
-- Refactoring legacy codebases into clean architectures
-- API integration and backend communication
-- Real-time features (maps, tracking, analytics)
-- Team-based development with BA and backend engineers
+# 🧠 Tech Stack
+
+### 📱 Mobile Development
+
+* Flutter
+* Dart
+
+### 🧩 Architecture
+
+* Clean Architecture
+* MVVM
+* MVI
+* SOLID Principles
+* Design Patterns
+* OOP
+
+### 🔄 State Management
+
+* Bloc
+* Cubit
+* Provider
+
+### 🌐 Backend Integration
+
+* REST APIs
+* Dio
+* Retrofit
+
+### ☁️ Backend & Databases
+
+* Firebase
+* Supabase
+* SQLite
+* Hive
+
+### ⚙️ DevOps
+
+* Git
+* GitHub Actions
+* Firebase App Distribution
+* CI/CD
+
+### 🛠 Tools & Integrations
+
+* Google Maps
+* Stripe Payments
+* Responsive UI
+* Animations
+* Figma
 
 ---
 
-## 📂 Featured Projects
-Check the pinned repositories below 👇  
-Each project includes a detailed README describing the architecture, features, and development approach.
+# 🚀 Featured Projects
 
-- **Fitness App with AI Chatbot** – Flutter, APIs, Firebase, CI/CD  
-- **Delivery Tracking App** – Google Maps, real-time tracking  
-- **E-commerce Flower App** – Orders, payments, clean architecture  
+## 🏋️ Fitness App with AI Chatbot
 
----
+Flutter fitness application that generates personalized workouts and nutrition plans.
 
-## 📍 Contact
-- 📧 Email: eslammahmoudragab611@gmail.com  
-- 📞 Phone: +20 1152931586  
-- 💼 LinkedIn: https://www.linkedin.com/in/eslam-mahmoud611  
-- 💻 GitHub: https://github.com/Eslam-mahmou  
+**Tech**
+Flutter • Clean Architecture • REST APIs • Firebase
 
----
+Features:
 
-## 📊 GitHub Activity
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eslam-mahmou&show_icons=true&hide_title=true" />
-</p>
+* AI workout recommendations
+* Personalized nutrition plans
+* User authentication
+* Modern UI
 
 ---
 
-> *Focused on building clean, scalable, and user-centered mobile applications with Flutter.*
+## 🚚 Delivery Tracking App
+
+Real-time delivery system with map tracking.
+
+**Tech**
+Flutter • Google Maps • REST APIs
+
+Features:
+
+* Driver registration
+* Order management
+* Real-time tracking
+* Delivery workflow
+
+---
+
+## 🌸 Flower E-commerce App
+
+Full e-commerce Flutter application.
+
+**Tech**
+Flutter • Clean Architecture • Payments
+
+Features:
+
+* Authentication
+* Product catalog
+* Shopping cart
+* Payment integration
+* Order tracking
+
+---
+
+# 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eslam-mahmou\&show_icons=true)
+
+---
+
+# 📫 Contact
+
+📧 Email
+[eslammahmoudragab611@gmail.com](mailto:eslammahmoudragab611@gmail.com)
+
+💼 LinkedIn
+https://www.linkedin.com/in/eslam-mahmoud611
+
+📱 Phone
++20 1152931586
